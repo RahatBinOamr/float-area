@@ -159,5 +159,29 @@ body{
     margin-left: 20px;
     margin-right: 20px;
 }
+.important3{
+    text-align: center;
+}
+.important3 h1{
+    font-size: 30px;
+}
+.input{
+    margin: 30px;
+    pad: 30px;
+    background-color: burlywood;
+}
+.submit{
+    background-color: chartreuse;
+    padding: 5px;
+}
+.Me{
+    text-align: center;
+    background-color: black;
+    color: burlywood;
+}
+.Me h1{
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 
