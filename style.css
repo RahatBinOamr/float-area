@@ -5,7 +5,7 @@ body{
     background-image:url(new1.png);
     background-repeat: no-repeat;
    background-size: 100% ;
-    color:rgb(193, 107, 37);
+    color:antiquewhite;
     text-align: center;
     justify-content: center;
 }
@@ -110,13 +110,20 @@ body{
     justify-content: center;
     margin: 20px;
     padding-top: 50px;
+    
 }
 .your h1{
     font-size: 40px; 
 }
+.your p{
+    margin-bottom: 20px;
+}
 .importan img{
     margin-left: 60px;
+    margin-right: 40px;
     padding-left: 60px;
+    padding-right: 40px;
+    
 }
 
 
