@@ -1,0 +1,60 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.who-need{
+    background-image: url(img4.jpg);
+    background-repeat: no-repeat;
+   background-size: 100% ;
+    color:rgb(226, 116, 25);
+    text-align: center;
+    justify-content: center;
+}
+.who-need h1{
+    font-size: 50px;
+}
+.who-need p{
+    color:bisque
+}
+.link-button{
+    text-decoration: none;
+    background-color: greenyellow;
+    padding: 5px;
+    border-radius: 8px;
+    margin-bottom: 5px;
+    color: black;
+}
+.donation{
+    text-align: center;
+    margin-top: 50px;
+    margin: 50px;
+    padding: 30px;
+}
+.donation h1{
+    font-size: 40px;
+   
+  
+}
+.help{
+    width: 100%;
+   display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    padding-left: 10px;
+}
+.help h1{
+    font-size: 40px;
+    margin: 20px;
+    text-align: center;
+    text-shadow: 10px 10px 30px rgb(2, 164, 2);
+}
+ .help #choice{
+    color: red;
+    background-color: bisque;
+    border: 10px saddlebrown;
+}
+
+   
+#text{
+    border-width: 10px;
+    margin-bottom: 10px;
+}
