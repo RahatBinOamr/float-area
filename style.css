@@ -1,5 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 35px;
+    padding: 10px;
 }
 .who-need{
     background-image:url(new1.png);
@@ -180,7 +182,7 @@ body{
     color: burlywood;
 }
 .Me h1{
-    
+
     font-family: Arial, Helvetica, sans-serif;
 }
 
