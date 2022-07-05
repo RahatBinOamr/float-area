@@ -101,29 +101,42 @@ body{
     width: 100%;
     height: 50%;
     display: flex;
-    justify-content: center;
-    margin-top: 40px;
-    margin: 10px;
+    margin: 30px;
+
+    margin-top: 70px;
+   margin-right:   25px;
 }
 .your{
     text-align: center;
     justify-content: center;
     margin: 20px;
-    padding-top: 50px;
+    padding-top: 30px;
     
 }
 .your h1{
-    font-size: 40px; 
+    font-size: 30px; 
 }
 .your p{
     margin-bottom: 20px;
 }
 .importan img{
-    margin-left: 60px;
-    margin-right: 40px;
-    padding-left: 60px;
-    padding-right: 40px;
+  padding-left: 20%;
+  width: 170%;
     
+}
+.important1{
+    width: 50% 50%;
+    height: 30%;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+.important1 img{
+    width: 70%;
+    
+}
+.important1 h1{
+    font-size: 30px;
 }
 
 
