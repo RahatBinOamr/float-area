@@ -6,7 +6,7 @@ body{
 .who-need{
     background-image:url(new1.png);
     background-repeat: no-repeat;
-   background-size: 100% ;
+    background-position: center;
     color:antiquewhite;
     text-align: center;
     justify-content: center;
