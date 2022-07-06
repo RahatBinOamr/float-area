@@ -180,10 +180,12 @@ body{
 }
 .email{
     background-color: cadetblue;
+    margin-right: -2px;
 }
 .submit{
     background-color: chartreuse;
-    padding: 5px;
+    margin-left: -6px;
+    padding: 3px;
 }
 .Me{
     text-align: center;
