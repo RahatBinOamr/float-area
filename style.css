@@ -88,6 +88,8 @@ body{
     background-image: url(shelter.png);
     background-repeat: no-repeat;
     background-color: blanchedalmond;
+    background-size: cover;
+ 
     margin: 0px 15px ;
     padding-top: 30px;
     box-shadow: 10px 10px 30px rgb(97, 60, 11) ;
